@@ -1,0 +1,2 @@
+Notas de la practica 1 de Git.
+Comandos usados: git clone, git checkout, git add, git commit, git push.
