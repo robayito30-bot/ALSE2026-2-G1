@@ -1,3 +1,4 @@
+
 # Práctica 1 - Git
 
 Actividad de práctica de Git realizada sobre el repositorio ALSE2026-2-G1.
@@ -13,3 +14,4 @@ control de versiones realizadas sobre ellos.
 - Creación de esta carpeta con archivos de la práctica
 - Ediciones y commits sobre los archivos
 - Push de la rama al repositorio remoto
+Autor: Luisa Fernanda Villada Robayo
